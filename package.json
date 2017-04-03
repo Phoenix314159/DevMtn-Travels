@@ -1,0 +1,21 @@
+{
+  "name": "DevMtn-Travels",
+  "version": "1.0.0",
+  "description": "Create an Angular application that uses routes to navigate through a travel site.\r You will be able to use routes and sub routes by the end of this project.\r In this repo, you'll continue to practice fundamental Angular principles you've learned\r like controller and services.",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phoenix314159/DevMtn-Travels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phoenix314159/DevMtn-Travels/issues"
+  },
+  "homepage": "https://github.com/Phoenix314159/DevMtn-Travels#readme"
+}

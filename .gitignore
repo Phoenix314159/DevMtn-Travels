@@ -22,4 +22,6 @@ dist
 
 .idea
 
+node_modules
+
 
